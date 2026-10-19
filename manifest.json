@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1.0",
+  "org": "cred-at-collective",
+  "repo": "cred.at.site",
+  "versions": [
+    {
+      "commit": "abb1bd06bc9b93a3bf60a7c206d6b60fe46b88ff",
+      "parsed_at": "2026-10-19T02:34:30.804490+00:00",
+      "filetree": "filetree/abb1bd06bc9b93a3bf60a7c206d6b60fe46b88ff.nq.gz",
+      "blobs": [
+        "blob/b1e34a84b2f437dc9e13e65141302c33599f2812.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
